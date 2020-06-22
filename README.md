@@ -25,7 +25,7 @@ dependencies
 ```
 
 # Application Setup 
-In Android app, make activity where you want to implement payment integration. Here, we have created `MainActivity.java`
+In Android app, make activity where you want to implement payment integration. Here, we have created [MainActivity.java](https://github.com/bankopen/layer-android-sdk-sample-application-kotlin/blob/master/app/src/main/java/com/open/openpaymentdemo/MainActivity.kt)
 
 ### Initializing OpenPayment 
 You can see below code, these are minimum and mandatory calls to enable payment processing. If any of it is missed then an error will be generated.
