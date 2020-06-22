@@ -15,7 +15,7 @@ A payment_token can be created by referring to [create payment token](https://do
 ### [open-web-sdk-release.aar](https://www.dropbox.com/s/l1e17h6lstmk1uw/open-web-sdk-release.aar)
 
 # Gradle Setup
-In [build.gradle](https://www.dropbox.com/s/l1e17h6lstmk1uw/open-web-sdk-release.aar) of app module, include the below dependency to import the OpenPayment library in the app.
+In [build.gradle](https://github.com/bankopen/layer-android-sdk-sample-application-kotlin/blob/master/app/build.gradle) of app module, include the below dependency to import the OpenPayment library in the app.
 
 ```
 dependencies 
