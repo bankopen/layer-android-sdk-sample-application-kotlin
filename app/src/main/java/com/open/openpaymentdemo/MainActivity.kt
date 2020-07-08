@@ -10,7 +10,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity(), PaymentStatusListener {
 
     private var mPaymentToken: String = ""
-    private var mAccessKey: String = ""
+    private var mAccessKey: String = " "
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
